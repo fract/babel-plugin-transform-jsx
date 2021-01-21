@@ -13,6 +13,8 @@ This plugin transforms JSX code to WhatsUp compatible mutator factories. It is r
 
 ```bash
 npm i -D @whatsup/babel-plugin-transform-jsx
+# or
+yarn add -D @whatsup/babel-plugin-transform-jsx
 ```
 
 ## Usage
